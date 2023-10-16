@@ -166,8 +166,11 @@ The above is what you would see in the “Console” tab of the Replit interface
 
 ## Conclusion
 
-Congrats on running your first program! In the following lessons, you should run
-all of the code examples in the Replit environment.
+Congrats on running your first program!
 
 Now that you understand the Replit interface and can run a program, you can try
 setting up a local environment.
+
+This will allow you to continue learning Python and Python based technologies
+for various applications such as backend development with Flask or Django; data
+analysis with NumPy, Pandas; or DevOps automation with Python scripts.
